@@ -1,8 +1,25 @@
 {
   "name": "ai-api-hub",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "一站式 AI 模型管理平台",
   "type": "module",
+  "license": "MIT",
+  "author": "sunnyang1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sunnyang1/ai-api-hub.git"
+  },
+  "homepage": "https://sunnyang1.github.io/ai-api-hub",
+  "keywords": [
+    "ai",
+    "api",
+    "llm",
+    "react",
+    "typescript",
+    "tailwindcss",
+    "dashboard"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
